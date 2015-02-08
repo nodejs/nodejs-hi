@@ -1,16 +1,66 @@
-# io.js-हिंदी
-
+iojs-hi
+=======
 io.js के लिए हिंदी स्थानीयकरण|
 
-twitter-[@iojs_hi](https://twitter.com/iojs_hi)
+This repository shall house io.js posts and announcements translated into Hindi.
 
-## हिंदी io.js टीम 
+Translation tasks will be managed using GitHub [issues](https://github.com/iojs/iojs-hi/issues) for this repo.
 
-- Manan Vaghasiya ([@manv](https://github.com/manV))
-- Naman Goel ([@nmn](https://github.com/nmn))
-- Mudit Ameta  ([@zeusdeux](https://github.com/zeusdeux))
+Twitter - [@iojs_hi](https://twitter.com/iojs_hi)
 
-## The MIT License (MIT)
+## Contents
+
+- [Team](#team)
+- [Responsibilities](#responsibilities)
+- [Workflow](#workflow)
+- [How to join the team?](#how-to-join-the-team)
+- [Social Media](#social-media)
+    + [Twitter](#twitter)
+- [Translated posts](#translated-posts)
+- [License](#license)
+
+## Team
+
+io.js हिंदी टीम currently consists of:
+
+- [@mikeal](https://github.com/mikeal)(Supreme commander)
+- [@nmn](https://github.com/nmn)
+- [@manV](https://github.com/manV)
+- [@zeusdeux](https://github.com/zeusdeux)
+
+## Responsibilities
+
+This team handles:
+
+- io.js website translation
+- Translation of io.js posts (for e.g., on [medium](https://medium.com/@iojs))
+- Translation of documentation as necessary
+- Translation of io.js material released for the community
+- [more?](https://github.com/iojs/iojs-hi/issues/3)
+
+## Workflow
+
+- Open an issue for each translation task
+- Make a markdown file containing the translated article/document/etc (Ideas for naming conventions?)
+- Open a PR against `master`
+
+## How to join the team?
+
+To join this team, please comment on [this](https://github.com/iojs/iojs-hi/issues/2) issue.
+
+## Social Media
+
+### Twitter
+
+[@iojs_hi](https://twitter.com/iojs_hi)
+
+## Translated posts
+
+None as yet.
+
+## License
+
+The MIT License (MIT)
 
 Copyright (c) 2015 - io.js
 
