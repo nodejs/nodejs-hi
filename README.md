@@ -27,6 +27,7 @@ io.js हिंदी टीम currently consists of:
 - [@nmn](https://github.com/nmn)
 - [@manV](https://github.com/manV)
 - [@zeusdeux](https://github.com/zeusdeux)
+- [@harshadsabne](https://github.com/harshadsabne)
 
 ## Responsibilities
 
@@ -56,7 +57,7 @@ To join this team, please comment on [this](https://github.com/iojs/iojs-hi/issu
 
 ## Translated posts
 
-None as yet.
+Translated posts can be found [here](https://github.com/iojs/iojs-hi/tree/master/weekly) in markdown format or you can read them on [Medium](https://medium.com/@iojs_hi)
 
 ## License
 
